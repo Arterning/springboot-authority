@@ -4186,6 +4186,8 @@ Cookie-session 认证机制是通过浏览器带上来Cookie对象来与服务�
 
 第一次请求认证在服务端创建一个Session对象，同时在用户的浏览器端创建了一个Cookie对象；当我们关闭浏览器的时候，cookie会被删除。但可以通过修改cookie 的expire time使cookie在一定时间内有效。
 
+还记得吗？cookie中有一个JESSIONID是tomcat生成的，这个就是用来匹配session的。
+
 **优点：**
 
 相对HTTP Basic Auth更加安全。
