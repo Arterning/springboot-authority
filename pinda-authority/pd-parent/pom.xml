@@ -105,7 +105,7 @@
         <spring.boot.version>2.3.12.RELEASE</spring.boot.version>
         <spring.cloud.version>Hoxton.SR12</spring.cloud.version>
         <spring-cloud-alibaba-dependencies.version>2.2.9.RELEASE</spring-cloud-alibaba-dependencies.version>
-        <spring.version>5.2.2.RELEASE</spring.version>
+        <spring.version>5.2.15.RELEASE</spring.version>
         <spring-boot-admin.version>2.2.0</spring-boot-admin.version>
         <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
         <mybatis.version>3.5.2</mybatis.version>
